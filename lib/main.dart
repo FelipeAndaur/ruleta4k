@@ -142,9 +142,11 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
     return LayoutBuilder(
       builder: (context, constraints) {
         double size = constraints.maxWidth;
+        double height = constraints.maxHeight;
 
         return Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 20.0),
+          padding: EdgeInsets.symmetric(
+              horizontal: size * 0.02), // Usando un porcentaje del tamaño total
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
@@ -152,7 +154,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
                 padding: const EdgeInsets.only(top: 0.0),
                 child: Image.asset(
                   'assets/Agrosuper.png', // Ruta a la imagen del logo
-                  width: size * 0.3,
+                  width: size * 0.25,
                 ),
               ),
               Stack(
@@ -162,7 +164,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
                     width: size,
                     height: size,
                     child: Container(
-                      padding: const EdgeInsets.all(20),
+                      padding: EdgeInsets.all(size * 0.02),
                       decoration: const BoxDecoration(
                         image: DecorationImage(
                           image: AssetImage('assets/circle.png'),
@@ -239,11 +241,11 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
                           FortuneIndicator(
                             alignment: Alignment.topCenter,
                             child: Transform.translate(
-                              offset: Offset(0, -screenWidth * 0.1),
+                              offset: Offset(0, -screenWidth * 0.08),
                               child: Image.asset(
                                 'assets/Pin_ruleta.png',
                                 width: screenWidth * 0.1,
-                                height: screenWidth * 0.15,
+                                height: screenWidth * 0.1,
                               ),
                             ),
                           ),
@@ -255,13 +257,15 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
                     child: Image.asset(
                       'assets/center.png',
                       width: size * 0.5,
-                      height: size * 0.55,
+                      height: size * 0.5,
                     ),
                   ),
                 ],
               ),
               Padding(
-                padding: const EdgeInsets.only(bottom: 80.0),
+                padding: EdgeInsets.only(
+                    bottom:
+                        height * 0.07), // Usando un porcentaje del tamaño total
                 child: AnimatedSwitcher(
                   duration: const Duration(milliseconds: 300),
                   transitionBuilder:
