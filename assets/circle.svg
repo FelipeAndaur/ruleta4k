@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg182"
+   width="1331.1212"
+   height="1331.1226"
+   viewBox="0 0 1331.1212 1331.1226"
+   sodipodi:docname="Propuesta Ruleta y Cabina de Fotos_v3.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs186" />
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g12242"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 2"
+     transform="matrix(1.3333333,0,0,-1.3333333,415.09192,-278.73633)">
+    <g
+       id="g16374"
+       transform="translate(-306.93697,-708.22332)"
+       inkscape:export-filename="../../Apps Flutter/4k/ruleta4k/ruleta4k/assets/circle.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="M 0,0 C 0,273.264 221.524,494.789 494.789,494.789 768.053,494.789 989.577,273.264 989.577,0 989.577,-273.264 768.053,-494.789 494.789,-494.789 221.524,-494.789 0,-273.264 0,0 Z"
+         style="fill:none;stroke:#ee7624;stroke-width:8.764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path16376" />
+    </g>
+  </g>
+</svg>

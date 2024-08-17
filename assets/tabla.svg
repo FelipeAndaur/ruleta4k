@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg182"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   sodipodi:docname="Propuesta Ruleta y Cabina de Fotos_v3.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs186">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16426-8">
+      <path
+         d="M 0,1920 H 1080 V 0 H 0 Z"
+         id="path16424-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16434-5">
+      <path
+         d="m 894.492,1145.79 h 78.093 v -59.54 h -78.093 z"
+         id="path16432-7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g12242"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 2"
+     transform="matrix(1.3333333,0,0,-1.3333333,-1311.6499,-463.4856)">
+    <g
+       id="g76219"
+       inkscape:export-filename="../../Apps Flutter/4k/ruleta4k/ruleta4k/assets/tabla.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:0;fill:#0071e2;fill-rule:evenodd;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect73115-0"
+         width="150"
+         height="150"
+         x="983.73743"
+         y="347.61429"
+         transform="scale(1,-1)" />
+      <g
+         id="g16420"
+         transform="matrix(0.4467611,1.7250653,-1.7250653,0.4467611,2569.8121,-2528.6943)">
+        <g
+           id="g16422"
+           clip-path="url(#clipPath16426-8)">
+          <g
+             id="g16428">
+            <g
+               id="g16430" />
+            <g
+               id="g16446">
+              <g
+                 clip-path="url(#clipPath16434-5)"
+                 opacity="0.830002"
+                 id="g16444">
+                <g
+                   transform="translate(963.9199,1128.6233)"
+                   id="g16438">
+                  <path
+                     d="m 0,0 c -1.701,-0.442 -2.716,-2.138 -2.282,-3.81 0.439,-1.688 2.131,-2.683 3.828,-2.249 1.691,0.432 2.701,2.12 2.277,3.809 C 3.402,-0.574 1.684,0.438 0,0 M -42.036,7.224 C -48.672,5.54 -55.309,3.859 -61.945,2.171 c -2.194,-0.558 -3.121,-2.102 -2.572,-4.268 2.78,-10.963 5.562,-21.925 8.347,-32.886 0.078,-0.308 0.159,-0.624 0.297,-0.908 0.732,-1.505 2.193,-2.074 4.072,-1.598 13.225,3.355 26.45,6.711 39.675,10.067 0.215,0.055 0.432,0.104 0.641,0.178 1.558,0.549 2.378,1.861 2.178,3.504 -0.505,4.146 -0.98,8.296 -1.538,12.435 -0.285,2.112 -0.446,4.302 -1.149,6.285 -1.797,5.068 -3.848,10.048 -5.836,15.047 -0.873,2.195 -2.152,2.792 -4.44,2.212 -6.589,-1.671 -13.177,-3.343 -19.766,-5.015 M 8.665,-2.094 c -0.16,-1.11 -0.167,-2.269 -0.508,-3.32 -1.104,-3.407 -4.078,-5.466 -8.03,-5.62 -1.245,-0.048 -2.502,0.062 -3.746,0.178 -1.335,0.125 -2.108,-0.517 -1.991,-1.858 0.316,-3.62 0.722,-7.233 0.999,-10.856 0.307,-4.012 -2.031,-7.231 -5.93,-8.315 -0.973,-0.27 -1.956,-0.501 -2.935,-0.75 -12.386,-3.143 -24.772,-6.288 -37.159,-9.428 -3.744,-0.948 -7.194,0.333 -9.075,3.36 -0.256,0.413 -0.481,0.846 -0.72,1.269 -3,11.821 -5.999,23.642 -8.998,35.462 0.181,1.275 0.162,2.622 0.585,3.811 0.963,2.708 3.057,4.236 5.818,4.934 11.865,3 23.727,6.016 35.59,9.026 1.456,0.369 2.909,0.752 4.368,1.106 4.183,1.014 7.935,-0.947 9.555,-4.916 1.281,-3.137 2.622,-6.25 3.957,-9.365 0.619,-1.444 1.602,-1.688 2.864,-0.751 1.574,1.169 3.28,2.068 5.174,2.606 C 2.407,5.595 6.188,3.891 7.951,0.206 8.002,0.099 8.087,0.007 8.157,-0.092 8.326,-0.76 8.495,-1.427 8.665,-2.094"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path16436" />
+                </g>
+                <g
+                   transform="translate(943.011,1137.8811)"
+                   id="g16442">
+                  <path
+                     d="m 0,0 c 1.469,-3.75 2.919,-7.454 4.371,-11.158 0.421,-1.074 0.798,-2.169 1.276,-3.218 0.93,-2.041 0.988,-4.247 1.276,-6.405 0.522,-3.921 0.985,-7.85 1.471,-11.775 0.035,-0.287 0.049,-0.577 0.074,-0.887 -13.537,-3.435 -27.035,-6.86 -40.575,-10.296 -2.831,11.157 -5.651,22.273 -8.485,33.439 C -27.068,-6.868 -13.572,-3.444 0,0"
+                     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     id="path16440" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
