@@ -35,7 +35,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
 
   final List<Map<String, dynamic>> opciones = [
     {
-      "texto": "Mandil",
+      "texto": "Pechera",
       "icono": 'assets/pechera.svg',
       "color": const Color(0xFF0161d3)
     },
@@ -45,7 +45,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
       "color": const Color(0xFF0070E3)
     },
     {
-      "texto": "Tabla\nde sal",
+      "texto": "Tabla\nde picoteo",
       "icono": 'assets/tabla.svg',
       "color": const Color(0xFF0150c6)
     },
@@ -55,7 +55,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
       "color": const Color(0xFF013b98)
     },
     {
-      "texto": "Pack de\ngalletas",
+      "texto": "Galletas",
       "icono": 'assets/galletas.svg',
       "color": const Color(0xFF07308d)
     },
@@ -65,8 +65,8 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
       "color": const Color(0xFF0070e3)
     },
     {
-      "texto": "Cubiertos\nsustentables",
-      "icono": 'assets/cubiertos.svg',
+      "texto": "Pechera",
+      "icono": 'assets/pechera.svg',
       "color": const Color(0xFF0161d3)
     },
     {
@@ -75,7 +75,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
       "color": const Color(0xFF0056ca)
     },
     {
-      "texto": "Tabla\nde sal",
+      "texto": "Tabla\nde picoteo",
       "icono": 'assets/tabla.svg',
       "color": const Color(0xFF0047b6)
     },
@@ -85,7 +85,7 @@ class FortuneWheelExampleState extends State<FortuneWheelExample> {
       "color": const Color(0xFF013b98)
     },
     {
-      "texto": "Pack de\ngalletas",
+      "texto": "Galletas",
       "icono": 'assets/galletas.svg',
       "color": const Color(0xFF072e87)
     },
